@@ -1,0 +1,4 @@
+big=top.luyuni.service.impl.BigFlower
+small=top.luyuni.service.impl.SmallFlower
+top.luyuni.service.wrapper.FlowerWrapperA
+top.luyuni.service.wrapper.FlowerWrapperB
